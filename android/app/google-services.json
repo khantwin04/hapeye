@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223898247711",
+    "project_id": "hapeye-48c48",
+    "storage_bucket": "hapeye-48c48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223898247711:android:8d9e67f5866c20522d2b2a",
+        "android_client_info": {
+          "package_name": "com.hapeye.news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223898247711-m7bj3acagub4bgmr329rtt61br64e3m6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv6FNHof5tLBTfGQGkz4vpBHTBPzfpHtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223898247711-m7bj3acagub4bgmr329rtt61br64e3m6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
